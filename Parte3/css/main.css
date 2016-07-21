@@ -1,0 +1,22 @@
+.padre {
+	width: 45%;
+	border: solid 1px;
+}
+
+.hijo1, .hijo2, .hijo3  {
+	width: 25%;
+	height: 100px;
+	float: right;
+}
+
+.hijo1 {
+	background-color: #FFFF00;
+}
+
+.hijo2 {
+	background-color: #3A81BA;
+}
+
+.hijo3 {
+	background-color: #ED2251;
+}
